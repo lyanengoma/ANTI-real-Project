@@ -1,11 +1,23 @@
 /*pour ajouter des éléments de CSS*/
 
 .vp-section {
-	width: 516px;
-	height: 477px;
+	width: 660px;
+	height: 200px;
 	background: #E7FDED;
 	 }
-
-.text-center {
-position: 100%;
+.vp-section-text {
+	width: 660px
+	height : 160px;
+}
+.title_first {
+	position: relative;
+    z-index: 2;
+    max-width: 660px;
+    margin: 100px;
+    padding-right: 0px;
+    color: #37383C ;
+    font-weight: bold;
+    font-size: 82px;
+    line-height: 80px;
+    letter-spacing: -0.02em;
 }
