@@ -1,0 +1,13 @@
+/*pour ajouter des éléments de CSS*/
+
+.vp-section {
+	width: 516px;
+	height: 477px;
+	background-image: url(img/fond-couleur-text.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	 }
+
+.text-center {
+position: 50%;
+}
