@@ -24,7 +24,7 @@
     letter-spacing: -0.02em;
 }
 
-.c-sociallWall__item img {
+.c-sociallWall__item {
     width: 100%;
     position: relative;
     display: block;
@@ -36,13 +36,10 @@
 
 }
 
-.c-sociallWall__item:after {
+.c-sociallWall__item {
     -ms-transform: scale(0.5);
     transform: scale(0.5);
     transition: all 0.4s ease;
-  }
-
-  .c-sociallWall__item:after {
     content: '';
     position: absolute;
     z-index: 50;
