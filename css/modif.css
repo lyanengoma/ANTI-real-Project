@@ -49,3 +49,9 @@
     top: 0;
     opacity: 0; 
     }
+
+.c-socialWall o-section {
+    padding-top: 4.375rem;
+    padding-bottom: 4.375rem;
+    display: block;
+}
