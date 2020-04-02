@@ -39,7 +39,7 @@ input:focus {
 
 /* line 20, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_common.scss */
 .section_padding {
-  padding: 200px 0px;
+  padding: 100px 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2539,7 +2539,7 @@ ul {
 
 /* line 45, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_banner.scss */
 .banner_part .banner_text h1 {
-  font-size: 68px;
+  font-size: 60px;
   font-weight: 500;
   line-height: 78px;
   margin-bottom: 10px;
