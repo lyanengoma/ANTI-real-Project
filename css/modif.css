@@ -49,3 +49,22 @@
     top: 0;
     opacity: 0; 
     }
+
+.c-socialWall o-section {
+    padding-top: 4.375rem;
+    padding-bottom: 4.375rem;
+    display: block;
+}
+
+.highlighted-title {
+    z-index: 2;
+    position: relative;
+    display: inline-block;
+    margin-left: 22px;
+    background: #E7FDED;
+    margin-bottom: 50px;
+}
+
+.vp-section-footer {
+    text-align: center;
+}
