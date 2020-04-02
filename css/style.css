@@ -105,7 +105,7 @@ input:focus {
 
 /* line 58, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_common.scss */
 .padding_top {
-  padding-top: 200px;
+  padding-top: 100px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
