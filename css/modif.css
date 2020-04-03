@@ -6,6 +6,14 @@
 	background: #E7FDED;
 	 }
 
+.vp-section-product {
+    width: 100vw; /*viewport weight*/
+    height: 90vh; /*viewport height*/
+    background-image: url(img/soapbottlebackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .vp-section-text {
 	width: 660px;
 	height : 160px;
