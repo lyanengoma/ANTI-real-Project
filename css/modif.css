@@ -102,3 +102,10 @@
     text-align: center;
 }
 
+.vp-section-concept {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/fond%20concept%202.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
