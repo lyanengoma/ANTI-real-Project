@@ -8,10 +8,16 @@
 
 .vp-section-product {
     width: 100vw; /*viewport weight*/
-    height: 90vh; /*viewport height*/
-    background-image: url(img/soapbottlebackground.jpg);
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/soapbottlebackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
+}
+.text-center {
+    color: white;
+    align-content: center;
+    justify-content: center;
 }
 
 .vp-section-text {
