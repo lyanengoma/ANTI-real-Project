@@ -102,6 +102,12 @@
     text-align: center;
 }
 
+.productchoice {
+    padding-top: 100px;
+    justify-content: center;
+    align-content: center;
+}
+
 .vp-section-concept {
     width: 100vw; /*viewport weight*/
     height: 60vh; /*viewport height*/
@@ -109,6 +115,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+<<<<<<< HEAD
     
 .vp-section-contact {
     width: 100vw; /*viewport weight*/
@@ -118,3 +125,6 @@
     background-repeat: no-repeat;
     color: white;
     }
+=======
+  }
+>>>>>>> 02737537cf31da9b3bce2ef821eb577e9e1dc309
