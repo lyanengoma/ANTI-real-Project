@@ -104,8 +104,9 @@
 
 .productchoice {
     padding-top: 100px;
-    justify-content: center;
-    align-content: center;
+    justify-content: center!important ;
+    align-content: center!important ;
+    text-align: center!important ;
 }
 
 .vp-section-concept {
