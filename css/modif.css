@@ -33,6 +33,15 @@
     color: white;
     }
 
+.vp-section-cart {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/monpanier.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+        }
+
 .text-center {
     color: white;
     align-content: center;
@@ -118,14 +127,7 @@
     color: white;
         }
 
-.vp-section-panier {
-    width: 100vw; /*viewport weight*/
-    height: 60vh; /*viewport height*/
-    background-image: url("backgroundimage/monpanier.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-        }
+
 
 .vp-section-contact {
     width: 100vw; /*viewport weight*/
