@@ -36,7 +36,7 @@
 .vp-section-cart {
     width: 100vw; /*viewport weight*/
     height: 60vh; /*viewport height*/
-    background-image: url("backgroundimage/monpanier.jpeg");
+    background-image: url("backgroundimage/monpanier%202.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -170,7 +170,7 @@
 .vp-section-contact {
     width: 100vw; /*viewport weight*/
     height: 60vh; /*viewport height*/
-    background-image: url("backgroundimage/shampoobackground.png");
+    background-image: url("backgroundimage/contact%20telephone.png");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
