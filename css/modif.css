@@ -132,10 +132,35 @@
     opacity: 0; 
     }
 
-.c-socialWall o-section {
+.c-socialWall {
     padding-top: 4.375rem;
     padding-bottom: 4.375rem;
     display: block;
+    text-align: center;
+
+}
+
+.c-sociallWall__block {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.socialWall1 {
+    width: 291px;
+    height: 291px;
+    max-width: none;
+}
+
+.socialWall2 {
+    width: 392.66px;
+    height: 392.66px;
+    max-width: none;
+}
+
+.socialWall3 {
+    width: 189.33px ;
+    height: 189.33px ;
+    max-width: none;
 }
 
 .highlighted-title {
