@@ -567,7 +567,7 @@ ul {
 /* line 44, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_3 {
   display: inline-block;
-  padding: 18px 36px;
+  padding: 18px 32px;
   border-radius: 5px;
   background-color: transparent;
   border: 1px solid #B08EAD;
@@ -2866,7 +2866,7 @@ ul {
 
 /* line 103, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_product.scss */
 .product_image_area {
-  margin-top: -360px;
+  margin-top: 0px;
 }
 
 @media (max-width: 991px) {
@@ -2982,7 +2982,7 @@ ul {
 /* line 173, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_single_product.scss */
 .card_area .product_count {
   border: 1px solid #795376;
-  margin: 0 35px;
+  margin: 0 16px;
 }
 
 @media (max-width: 991px) {
@@ -3029,7 +3029,7 @@ input:focus {
 /* line 1, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_trending_items.scss */
 .trending_items {
   background-color: #F4EDF2;
-  padding: 200px 0 130px;
+  padding: 100px 0 130px;
 }
 
 @media (max-width: 991px) {

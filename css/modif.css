@@ -1,10 +1,92 @@
 /*pour ajouter des éléments de CSS*/
 
 .vp-section {
-	width: 591px;
-	height: 160px;
+	width: 550px;
+	height: 85px;
 	background: #E7FDED;
 	 }
+
+.vp-section-product {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/productbackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    }
+
+.vp-section-soap {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/soapbackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    }
+
+.vp-section-shampoo {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/shampoobackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    }
+
+.vp-section-cart {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/monpanier%202.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+        }
+
+.vp-section-blog1 {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("http://jonnabreitenhuber.de/images/soapbottle%20gradient_2x2.jpg?crc=264921864");
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+
+.vp-section-blog2 {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("https://res.cloudinary.com/lush/image/upload/s--ZpMLDGPo--/c_fill,q_jpegmini,w_1800/v1/lush_website_fr/2018/11/20/bain.jpg?itok=L-T-IO0b");
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+
+.vp-section-blog3 {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("https://res.cloudinary.com/lush/image/upload/s--62DgonME--/c_fill,q_jpegmini,w_1800/v1/articles/hero/2014/09/Ethical%20Buying.jpg?itok=Mw0bqnN2");
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+
+.vp-section-blog4 {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("https://res.cloudinary.com/lush/image/upload/s--CiHe8wHN--/c_fill,q_jpegmini,w_1800/v1/lush_website_fr/articles/hero/2019/07/cosmetique_solide.jpg?itok=RwqjJymo");
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+
+.vp-section-blog5 {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("https://res.cloudinary.com/lush/image/upload/s--XUkC8mk5--/c_fill,q_jpegmini,w_1800/v1/products/hero/2014/10/RnB_Hero.jpg?itok=BYKlk6ck");
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+
+.text-center {
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
 
 .vp-section-text {
 	width: 660px;
@@ -50,10 +132,35 @@
     opacity: 0; 
     }
 
-.c-socialWall o-section {
+.c-socialWall {
     padding-top: 4.375rem;
     padding-bottom: 4.375rem;
     display: block;
+    text-align: center;
+
+}
+
+.c-sociallWall__block {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.socialWall1 {
+    width: 291px;
+    height: 291px;
+    max-width: none;
+}
+
+.socialWall2 {
+    width: 392.66px;
+    height: 392.66px;
+    max-width: none;
+}
+
+.socialWall3 {
+    width: 189.33px ;
+    height: 189.33px ;
+    max-width: none;
 }
 
 .highlighted-title {
@@ -67,4 +174,53 @@
 
 .vp-section-footer {
     text-align: center;
+}
+
+.productchoice {
+    padding-top: 100px;
+    justify-content: center!important ;
+    align-content: center!important ;
+    text-align: center!important ;
+}
+
+.vp-section-concept {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/fond%20concept%202.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+        }
+
+.vp-section-contact {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/contact%20telephone.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    }
+
+.text-align-center {
+    text-align: center;
+}
+
+.video-container {
+    position: relative;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 600px;
+    width: 100%;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+.section_padding_blog{
+    padding: 30px 0;
 }
