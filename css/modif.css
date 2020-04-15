@@ -130,6 +130,7 @@
     height: 100%;
     top: 0;
     opacity: 0; 
+    margin-bottom: .875rem;
     }
 
 .c-socialWall {
@@ -147,19 +148,19 @@
 
 .socialWall1 {
     width: 291px;
-    height: 291px;
+    height: 305px;
     max-width: none;
 }
 
 .socialWall2 {
-    width: 392.66px;
-    height: 392.66px;
+    width: 416.66px;
+    height: 401px;
     max-width: none;
 }
 
 .socialWall3 {
-    width: 189.33px ;
-    height: 189.33px ;
+    width: 185.33px ;
+    height: 199px ;
     max-width: none;
 }
 
