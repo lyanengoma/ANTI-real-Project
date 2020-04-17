@@ -202,6 +202,16 @@
     color: white;
     }
 
+.vp-section-blog {
+    width: 100vw; /*viewport weight*/
+    height: 60vh; /*viewport height*/
+    background-image: url("backgroundimage/blog.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    }
+
+
 .text-align-center {
     text-align: center;
 }
