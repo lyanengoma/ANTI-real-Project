@@ -15,7 +15,6 @@
     color: white;
     }
 
-
 .vp-section-cart {
     width: 100vw; /*viewport weight*/
     height: 60vh; /*viewport height*/
@@ -28,7 +27,7 @@
 .vp-section-blog1 {
     width: 100vw; /*viewport weight*/
     height: 60vh; /*viewport height*/
-    background-image: url("http://jonnabreitenhuber.de/images/soapbottle%20gradient_2x2.jpg?crc=264921864");
+    background-image: url("backgroundimage/blog1.png");
     background-size: cover;
     background-repeat: no-repeat;
         }
